@@ -14,7 +14,7 @@
   display: none;
 }
 
-#wall .parent .slick{
+#wall .parent > div .slick{
   display: none;
 }
 
