@@ -18,4 +18,6 @@
   display: none;
 }
 
-#wall .parent div 
+#wall .parent div #tag-6 {
+  display: none;
+}
