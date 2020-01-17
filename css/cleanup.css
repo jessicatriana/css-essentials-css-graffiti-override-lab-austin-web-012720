@@ -6,7 +6,7 @@
   display: none;
 }
 
-#wall .tag-1 + #tag-2 + #tag-3{
+#wall .tag-1 + #tag-2 + #tag-3 {
   display: none;
 }
 
@@ -14,6 +14,6 @@
   display: none;
 }
 
-#wall .parent #tag-5 .slick{
+#wall .parent #tag-5 .slick {
   display: none;
 }
