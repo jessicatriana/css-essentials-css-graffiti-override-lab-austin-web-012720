@@ -14,10 +14,7 @@
   display: none;
 }
 
-#wall .parent .slick{
+#wall div.parent #tag-5 .slick{
   display: none;
 }
 
-#wall div.parent #tag-6 {
-  display: none;
-}
